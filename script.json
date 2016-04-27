@@ -1,8 +1,9 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back.",
-    "TEST": "Yeah, it actually works!"
+    "DISCONNECT": "Roger that, I am back.",
+    "TEST": "Yeah, it actually works!",
+    "HELLO": "Hey, I guess you would like to play some games. Tell me, would you like to play a game for Android or iOS?",
+    "ANDROID": "Yeah, great choice. What genre would you like to play?",
+    "IOS": "Yeah, great choice. What genre would you like to play?"
+    
 }
