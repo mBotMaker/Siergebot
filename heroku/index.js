@@ -100,6 +100,13 @@ app.post('/webhook', function(req, res, next) {
         });
 });
 
+app.get('/webhook', function (req, res) {
+  if (req.query['hub.verify_token'] === 'e3ee919e328d689bdc2b3a66df9be93fe9a87adc') {
+    res.send(req.query['hub.challenge']);
+  }
+  res.send('Error, wrong validation token');
+})
+
 var server = app.listen(process.env.PORT || 8000, function() {
     var host = server.address().address;
     var port = server.address().port;
