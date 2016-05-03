@@ -1,7 +1,7 @@
 {
-  "name": "GFY Bot",
+  "name": "GFY",
   "version": "1.0.0",
-  "description": "GameForYou, a bot that recommedns games.",
+  "description": "GameForYou, a bot that recommends games.",
   "author": "Milan Jerkovic",
   "scripts": {
     "start": "node heroku"
