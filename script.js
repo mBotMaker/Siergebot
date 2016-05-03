@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I don't understand that yet. Please try something else.`).then(() => 'speak');
+                    return bot.say(`I don't understand that yet. You can try typing a genre you would like to play.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
