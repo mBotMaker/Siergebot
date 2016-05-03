@@ -80,11 +80,19 @@
     "EDUCATIONAL": "Maybe you will like https://play.google.com/store/apps/details?id=com.mufimob.learnabc123&hl=en",
     "EDUCATION": "Maybe you will like https://play.google.com/store/apps/details?id=com.mufimob.learnabc123&hl=en",
     "EDUCATIONAL GAME": "Maybe you will like https://play.google.com/store/apps/details?id=com.mufimob.learnabc123&hl=en",
-    "MULTIPLAYER": "If you like playing card games with others, try https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone"
+    "MULTIPLAYER": "If you like playing card games with others, try https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone",
     
-    "THANKS": "You are welcome :)"
-    "THANK YOU": "You are welcome :)"
-    "TY": "You are welcome :)"
+    "THANKS": "You are welcome :)",
+    "THANK YOU": "You are welcome :)",
+    "TY": "You are welcome :)",
+    "COUNTER": "That is a game, not a genre :)",
+    "COUNTER STRIKE": "That is a game, not a genre :)",
+    "LOL": "That is a game, not a genre :)",
+    "WOW": "That is a game, not a genre :)",
+    "DOTA": "That is a game, not a genre :)",
+    "DOTA 2": "That is a game, not a genre :)",
+    "HEROES": "That is a game, not a genre :)",
+    "STARTIT": "Startit nije žanr igara :p"
 
 
 }
