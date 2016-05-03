@@ -5,4 +5,29 @@
     "HELLO": "Hey, I guess you would like to play some games. Tell me, would you like to play a game for Android or iOS?",
     "ANDROID": "Yeah, great choice. What genre would you like to play?",
     "IOS": "Yeah, great choice. What genre would you like to play?",
+    
+    
+  "NPR":{
+    "attachment":{
+      "type":"template",
+      "payload":{
+        "template_type":"button",
+        "text":"What do you want to do next?",
+        "buttons":[
+          {
+            "type":"web_url",
+            "url":"https://petersapparel.parseapp.com",
+            "title":"Show Website"
+          },
+          {
+            "type":"web_url",
+            "url":"https://petersapparel.parseapp.com",
+            "title":"Show Website2"
+          }
+       
+        ]
+      }
+    }
+  }' "https://graph.facebook.com/me/messages?access_token=<EAAGh8Ci6fxEBAOh862NBZCAKwtPxPdBZCKOfQT3jaHtuoo4ZB3eZCLFxyO5CJcUKvUIn0MgxH8oWKogJRqtvrjGGsVp4iCDuycFE1wHKRgNr9EkBixLe2TpaOInquw7kKaEz4smmBQMqUwhQMplg7L67WjZAtZAZCYEQZB8SMFZAapAZDZD>"
+    
 }
