@@ -5,7 +5,7 @@
     "HELLO": "Hey, I guess you would like to play some games. Tell me, would you like to play a game for Android or iOS?",
     "ANDROID": "Yeah, great choice. What genre would you like to play?",
     "IOS": "Yeah, great choice. What genre would you like to play?",
-    "message":{
+    "PRIM":{
         "text":"hello, world!"
     }
     
