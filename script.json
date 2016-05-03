@@ -9,9 +9,6 @@
         "text":"hello, world!"
     }
     
-}' "https://graph.facebook.com/v2.6/me/messages?access_token=EAAGh8Ci6fxEBAOh862NBZCAKwtPxPdBZCKOfQT3jaHtuoo4ZB3eZCLFxyO5CJcUKvUIn0MgxH8oWKogJRqtvrjGGsVp4iCDuycFE1wHKRgNr9EkBixLe2TpaOInquw7kKaEz4smmBQMqUwhQMplg7L67WjZAtZAZCYEQZB8SMFZAapAZDZD"
-    
-    
-    
+}
     
 
