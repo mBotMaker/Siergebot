@@ -2,7 +2,17 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, I am back.",
     "TEST": "Yeah, it actually works!",
-    "HELLO": "Hey, I guess you would like to play some games. Tell me, would you like to play a game for Android or iOS?",
-    "ANDROID": "Yeah, great choice. What genre would you like to play?",
-    "IOS": "Yeah, great choice. What genre would you like to play?",
+    "HELLO": "Hey, I guess you would like to play some games. For now, I can only recommend games for Android, tell me what genre would you like to play?",
+    "CASUAL":"",
+    "CASUAL GAME": "this one",
+    "CASUAL GAMES": "",
+    "CARDS": "",
+    "CARD": "",
+    "CARD GAME": "",
+    "TRIVIA": "",
+    "TRIVIA GAME": "",
+    "ACTION": "",
+    "RPG": "",
+    "ROLE": ""
+    
 }
