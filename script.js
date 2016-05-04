@@ -6,20 +6,6 @@ const Script = require('smooch-bot').Script;
 const scriptRules = require('./script.json');
 
 
-smooch.conversations.sendMessage('c7f6e6d6c3a637261bd9656f', {
-    text: 'Just put some vinegar on it',
-    role: 'appMaker',
-    actions: [
-      {
-        type: 'link',
-        text: 'Put vinegar',
-        uri: 'http://example.com'
-      }
-    ]
-}).then(() => {
-    // async code
-});
-
 
 
 module.exports = new Script({
@@ -82,6 +68,9 @@ module.exports = new Script({
                              return bot.sendImage(imageFile);
                          });
                     }
+                    
+
+                    
                 })
 
                 return p.then(() => 'speak');
