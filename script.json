@@ -96,9 +96,9 @@
     "AOH:)": "The next big thing :) http://www.awakeningofheroes.com/",
     "AOH :)": "The next big thing :) http://www.awakeningofheroes.com/",
     "AOH": "The next big thing :) http://www.awakeningofheroes.com/",
-    "slika": "Ovako izgleda slika \n [trelo]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg",
-    "slika1": "Ovako izgleda slika \n [trelo]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg \n",
-    "dugme": "Postbek šta god ћирилица \n %[postbek dugme](postback:action) \n Link dugme %[link dugme](https://play.google.com/store/apps/details?id=com.supercell.clashofclans)"
+    "SLIKA": "Ovako izgleda slika \n [trelo]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg",
+    "SLIKA1": "Ovako izgleda slika \n [trelo]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg \n",
+    "DUGME": "Postbek šta god ћирилица \n %[postbek dugme](postback:action) \n Link dugme %[link dugme](https://play.google.com/store/apps/details?id=com.supercell.clashofclans)"
 
 
 }
