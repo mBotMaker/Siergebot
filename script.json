@@ -28,7 +28,7 @@
     "SHOOT 'EM UP": "Maybe you will like https://play.google.com/store/apps/details?id=pl.idreams.skyforcehd&hl=en",
     "PLATFORM": "Maybe you will like https://play.google.com/store/apps/details?id=com.frogmind.badland",
     "PLATFORMER": "Maybe you will like https://play.google.com/store/apps/details?id=com.frogmind.badland",
-    "STRATEGY": "Maybe you will like Boom Beach https://play.google.com/store/apps/details?id=com.supercell.boombeach",
+    "STRATEGY": "Maybe you will like Boom Beach https://play.google.com/store/apps/details?id=com.supercell.boombeach \n Or Clash of Clans https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
     "STRATEGY GAME": "Maybe you will like Clash of Clans https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
     "FIGHT": "Maybe you will like https://play.google.com/store/apps/details?id=com.playmotionsg.ironkill",
     "FIGHTER": "Maybe you will like https://play.google.com/store/apps/details?id=com.playmotionsg.ironkill",
@@ -95,7 +95,10 @@
     "STARTIT": "Startit nije žanr igara :p",
     "AOH:)": "The next big thing :) http://www.awakeningofheroes.com/",
     "AOH :)": "The next big thing :) http://www.awakeningofheroes.com/",
-    "AOH": "The next big thing :) http://www.awakeningofheroes.com/"
+    "AOH": "The next big thing :) http://www.awakeningofheroes.com/",
+    "slika": "Ovako izgleda slika \n [trelo]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg",
+    "slika1": "Ovako izgleda slika \n [trelo]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg \n",
+    "dugme": "Postbek šta god ћирилица \n %[postbek dugme](postback:action) \n Link dugme %[link dugme](https://play.google.com/store/apps/details?id=com.supercell.clashofclans)"
 
 
 }
