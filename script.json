@@ -105,7 +105,7 @@
     "AOH": "The next big thing :) http://www.awakeningofheroes.com/",
     "SLIKA": "Ovako izgleda slika \n [trello]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg",
     "SLIKA1": "Ovako izgleda slika \n [trello]https://raw.githubusercontent.com/Chaslav/GFYbot/master/img/trello.jpg \n",
-    "DUGME": "Postbek šta god ћирилица \n %[postbek dugme](postback:ACTION) \n  %[link dugme](https://play.google.com/store/apps/details?id=com.supercell.clashofclans)"
+    "DUGME": "Postbek šta god ћирилица \n %[postbek dugme](postback:ACTION) \n"
 
 
 }
